@@ -110,7 +110,7 @@ Special thanks to these developers for making this project possible:
 
 ## Links
 
-- [Link to deployed application on Heroku](https://code-flow-app.herokuapp.com/)
+- [Link to deployed application](https://codeflow.onrender.com)
 
 - [Link to GitHub repository](https://github.com/cnohilly/codeflow)
 
